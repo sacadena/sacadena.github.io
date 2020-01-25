@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1 | Santiago Cadena</title>
-    <link>https://sacadena.github.io/publication_types/1/</link>
-      <atom:link href="https://sacadena.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
-    <description>1</description>
+    <title>Marissa A. Weis | Santiago Cadena</title>
+    <link>https://sacadena.github.io/authors/marissa-a.-weis/</link>
+      <atom:link href="https://sacadena.github.io/authors/marissa-a.-weis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marissa A. Weis</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 08 Sep 2018 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>1</title>
-      <link>https://sacadena.github.io/publication_types/1/</link>
-    </image>
-    
     <item>
       <title>Diverse feature visualizations reveal invariances in early layers of deep neural networks</title>
       <link>https://sacadena.github.io/publication/eccv/</link>
