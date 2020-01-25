@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Santiago Cadena</title>
+    <link>https://sacadena.github.io/authors/</link>
+      <atom:link href="https://sacadena.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 23 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Alexander S. Ecker</title>
+      <link>https://sacadena.github.io/authors/alexander-s.-ecker/</link>
+      <pubDate>Tue, 23 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://sacadena.github.io/authors/alexander-s.-ecker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andreas S. Tolias</title>
+      <link>https://sacadena.github.io/authors/andreas-s.-tolias/</link>
+      <pubDate>Tue, 23 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://sacadena.github.io/authors/andreas-s.-tolias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Edgar Y. Walker</title>
+      <link>https://sacadena.github.io/authors/edgar-y.-walker/</link>
+      <pubDate>Tue, 23 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://sacadena.github.io/authors/edgar-y.-walker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Goerge H. Denfield</title>
+      <link>https://sacadena.github.io/authors/goerge-h.-denfield/</link>
+      <pubDate>Tue, 23 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://sacadena.github.io/authors/goerge-h.-denfield/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leon A. Gatys</title>
+      <link>https://sacadena.github.io/authors/leon-a.-gatys/</link>
+      <pubDate>Tue, 23 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://sacadena.github.io/authors/leon-a.-gatys/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matthias Bethge</title>
+      <link>https://sacadena.github.io/authors/matthias-bethge/</link>
+      <pubDate>Tue, 23 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://sacadena.github.io/authors/matthias-bethge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Santiago A. Cadena</title>
+      <link>https://sacadena.github.io/authors/santiago-a.-cadena/</link>
+      <pubDate>Tue, 23 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://sacadena.github.io/authors/santiago-a.-cadena/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://sacadena.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://sacadena.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;I study visual processing in the brain by building predictive models of population responses from the macaque and rodent brains to image and video sequences. I use techniques from machine learning and computer vision to improve our predictive models and gain insights into the nonlinear computations of visual neurons. My goal is to understand the functional organization of the visual cortex and to use these insights to enhance current computer vision methods.&lt;/p&gt;
+&lt;p&gt;I am an 
+&lt;a href=&#34;https://imprs.is.mpg.de/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IMPRS-IS&lt;/a&gt;
+ PhD student at the lab of 
+&lt;a href=&#34;http://bethgelab.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Matthias Bethge&lt;/a&gt;
+ at the University of Tübingen, jointly supervised by 
+&lt;a href=&#34;https://alexanderecker.wordpress.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alexander Ecker&lt;/a&gt;
+ at the University of Göttingen.
+During my PhD I&amp;rsquo;ve done multiple research visits to 
+&lt;a href=&#34;https://toliaslab.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Andreas Tolias&lt;/a&gt;
+&amp;lsquo;s lab at 
+&lt;a href=&#34;https://www.bcm.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Baylor College of Medicine&lt;/a&gt;
+ to conduct electrophysiological recordings from awake macaques.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
