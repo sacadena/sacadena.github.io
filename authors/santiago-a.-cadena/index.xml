@@ -5,12 +5,90 @@
     <link>https://sacadena.github.io/authors/santiago-a.-cadena/</link>
       <atom:link href="https://sacadena.github.io/authors/santiago-a.-cadena/index.xml" rel="self" type="application/rss+xml" />
     <description>Santiago A. Cadena</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 23 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 09 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Learning Divisive Normalization in Primary Visual Cortex</title>
+      <link>https://sacadena.github.io/publication/burg19/</link>
+      <pubDate>Sat, 09 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://sacadena.github.io/publication/burg19/</guid>
+      <description>&lt;!--
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+--&gt;
+&lt;p&gt;#Supplementary notes can be added here, including 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;
+.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rotation-invariant clustering of functional cell types in primary visual cortex</title>
+      <link>https://sacadena.github.io/publication/ustyuz_iclr20/</link>
+      <pubDate>Wed, 25 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://sacadena.github.io/publication/ustyuz_iclr20/</guid>
+      <description>&lt;!--
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+--&gt;
+&lt;p&gt;#Supplementary notes can be added here, including 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;
+.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How well do deep neural networks trained on object recognition characterize the mouse visual system?</title>
+      <link>https://sacadena.github.io/publication/neurips19/</link>
+      <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://sacadena.github.io/publication/neurips19/</guid>
+      <description>&lt;!--
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+--&gt;
+&lt;p&gt;#Supplementary notes can be added here, including 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;
+.&lt;/p&gt;
+</description>
+    </item>
+    
     <item>
       <title>Deep convolutional models improve predictions of macaque V1 responses to natural images</title>
-      <link>https://sacadena.github.io/publication/ploscb/</link>
+      <link>https://sacadena.github.io/publication/ploscb19/</link>
       <pubDate>Tue, 23 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://sacadena.github.io/publication/ploscb/</guid>
+      <guid>https://sacadena.github.io/publication/ploscb19/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -29,20 +107,51 @@
     </item>
     
     <item>
-      <title>Diverse feature visualizations reveal invariances in early layers of deep neural networks</title>
-      <link>https://sacadena.github.io/publication/eccv/</link>
-      <pubDate>Sat, 08 Sep 2018 00:00:00 +0000</pubDate>
-      <guid>https://sacadena.github.io/publication/eccv/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+      <title>A rotation-equivariant convolutional neural network model of primary visual cortex</title>
+      <link>https://sacadena.github.io/publication/ecker_iclr19/</link>
+      <pubDate>Fri, 28 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://sacadena.github.io/publication/ecker_iclr19/</guid>
+      <description>&lt;!--
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+
+
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
   &lt;/div&gt;
 &lt;/div&gt;
+
+--&gt;
+&lt;p&gt;#Supplementary notes can be added here, including 
+&lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;
+.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Diverse feature visualizations reveal invariances in early layers of deep neural networks</title>
+      <link>https://sacadena.github.io/publication/eccv18/</link>
+      <pubDate>Sat, 08 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://sacadena.github.io/publication/eccv18/</guid>
+      <description>&lt;!--
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+--&gt;
 &lt;p&gt;#Supplementary notes can be added here, including 
 &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;
 .&lt;/p&gt;

@@ -3,37 +3,162 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://sacadena.github.io/publication_types/2/</loc>
-    <lastmod>2019-04-23T00:00:00+00:00</lastmod>
+    <loc>https://sacadena.github.io/talk/neurips_neuroai/</loc>
+    <lastmod>2019-12-14T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sacadena.github.io/talk/</loc>
+    <lastmod>2019-12-14T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sacadena.github.io/</loc>
+    <lastmod>2019-12-14T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sacadena.github.io/publication_types/3/</loc>
+    <lastmod>2019-11-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://sacadena.github.io/authors/alexander-s.-ecker/</loc>
-    <lastmod>2019-04-23T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://sacadena.github.io/authors/andreas-s.-tolias/</loc>
-    <lastmod>2019-04-23T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://sacadena.github.io/authors/</loc>
-    <lastmod>2019-04-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sacadena.github.io/publication/ploscb/</loc>
-    <lastmod>2019-04-23T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://sacadena.github.io/authors/edgar-y.-walker/</loc>
-    <lastmod>2019-04-23T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://sacadena.github.io/authors/goerge-h.-denfield/</loc>
+    <lastmod>2019-11-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sacadena.github.io/publication/burg19/</loc>
+    <lastmod>2019-11-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sacadena.github.io/authors/matthias-bethge/</loc>
+    <lastmod>2019-11-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sacadena.github.io/authors/max-f.-burg/</loc>
+    <lastmod>2019-11-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sacadena.github.io/publication_types/</loc>
+    <lastmod>2019-11-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sacadena.github.io/publication/</loc>
+    <lastmod>2019-11-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sacadena.github.io/authors/santiago-a.-cadena/</loc>
+    <lastmod>2019-11-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sacadena.github.io/tags/source-themes/</loc>
+    <lastmod>2019-11-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sacadena.github.io/tags/</loc>
+    <lastmod>2019-11-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sacadena.github.io/publication_types/1/</loc>
+    <lastmod>2019-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sacadena.github.io/authors/emmanouil-froudarakis/</loc>
+    <lastmod>2019-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sacadena.github.io/authors/erick-cobos/</loc>
+    <lastmod>2019-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sacadena.github.io/authors/fabian-h.-sinz/</loc>
+    <lastmod>2019-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sacadena.github.io/authors/ivan-ustyuzhaninov/</loc>
+    <lastmod>2019-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sacadena.github.io/authors/jacob-reimer/</loc>
+    <lastmod>2019-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sacadena.github.io/authors/paul-g.-fahey/</loc>
+    <lastmod>2019-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sacadena.github.io/publication/ustyuz_iclr20/</loc>
+    <lastmod>2019-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sacadena.github.io/tags/selected/</loc>
+    <lastmod>2019-09-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sacadena.github.io/publication_types/2/</loc>
+    <lastmod>2019-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sacadena.github.io/authors/andreas-tolias/</loc>
+    <lastmod>2019-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sacadena.github.io/publication/neurips19/</loc>
+    <lastmod>2019-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sacadena.github.io/authors/jake-reimer/</loc>
+    <lastmod>2019-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sacadena.github.io/authors/taliah-muhammad/</loc>
+    <lastmod>2019-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://sacadena.github.io/publication/ploscb19/</loc>
     <lastmod>2019-04-23T00:00:00+00:00</lastmod>
   </url>
   
@@ -43,47 +168,12 @@
   </url>
   
   <url>
-    <loc>https://sacadena.github.io/authors/matthias-bethge/</loc>
-    <lastmod>2019-04-23T00:00:00+00:00</lastmod>
+    <loc>https://sacadena.github.io/publication/ecker_iclr19/</loc>
+    <lastmod>2018-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sacadena.github.io/publication_types/</loc>
-    <lastmod>2019-04-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sacadena.github.io/publication/</loc>
-    <lastmod>2019-04-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sacadena.github.io/authors/santiago-a.-cadena/</loc>
-    <lastmod>2019-04-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sacadena.github.io/</loc>
-    <lastmod>2019-04-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sacadena.github.io/tags/source-themes/</loc>
-    <lastmod>2019-04-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sacadena.github.io/tags/</loc>
-    <lastmod>2019-04-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sacadena.github.io/publication_types/1/</loc>
-    <lastmod>2018-09-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://sacadena.github.io/publication/eccv/</loc>
+    <loc>https://sacadena.github.io/publication/eccv18/</loc>
     <lastmod>2018-09-08T00:00:00+00:00</lastmod>
   </url>
   
@@ -102,10 +192,6 @@
   
   <url>
     <loc>https://sacadena.github.io/post/</loc>
-  </url>
-  
-  <url>
-    <loc>https://sacadena.github.io/talk/</loc>
   </url>
   
 </urlset>
